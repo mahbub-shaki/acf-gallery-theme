@@ -77,6 +77,7 @@ acf-gallery-theme/
 │   ├── frontend-ui.png
 │   ├── frontend-single-page-ui.png
 │   └── theme-structure.png
-├──acf-json/
-    ├── acf-gallery-fields.json
+├── acf-json/
+│   └── acf-gallery-fields.json
+
 ```
