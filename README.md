@@ -27,7 +27,7 @@ This project showcases a **custom image gallery section** in WordPress using **A
 ## 🖥️ Screenshots
 
 ### Theme Structure  
-![Structure](screenshots/theme-structure.png)
+![Structure](screenshots/theme-structure.png)   
 
 ### ACF Fields  
 ![ACF Fields](screenshots/acf-fields.png)
